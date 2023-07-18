@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/AngularApp/.angular/cache/16.1.4
+/AngularApp/.vscode
+/AngularApp/node_modules
+/ConsoleApp/.vs
+/ConsoleApp/CatalogExercise/bin/Debug/net6.0
+/ConsoleApp/CatalogExercise/obj
+/ConsoleApp/ConsoleApp/bin/Debug/net6.0
+/ConsoleApp/ConsoleApp/obj
+/ConsoleApp/CustomersExercise/bin/Debug/net6.0
+/ConsoleApp/CustomersExercise/obj

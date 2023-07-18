@@ -1,0 +1,8 @@
+<ul>
+    <ng-container *ngFor="let item of items">
+      <li>{{ item.Name }}</li>
+      <ng-container *ngIf="item.Children?.length > 0">
+        <app-item-list [items]="item.Children"></app-item-list>
+      </ng-container>
+    </ng-container>
+  </ul>
